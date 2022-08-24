@@ -1,2 +1,3 @@
 My first read me
-first programme
+
+my first programmer was shit
